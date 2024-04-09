@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_backend",
+  "version": "1.0.0",
+  "description": "Backend created on Node and Express for my portfolio project - Ahaan Soni",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahaan Soni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "type": "module"
+}
